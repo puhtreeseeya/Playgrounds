@@ -1,5 +1,5 @@
 var cities = []; 
-var totalCities = 12; 
+var totalCities = 5; 
 
 var recordDistance; 
 var bestEver = []; 
